@@ -1,0 +1,15 @@
+OUTLOOK,TEMPERATURE,HUMIDITY,PLAY
+sunny,hot,0,0
+sunny,hot,0,1
+cloudy,hot,0,1
+rainy,mild,0,1
+rainy,cool,1,1
+rainy,cool,1,1
+cloudy,cool,0,1
+sunny,mild,0,0
+sunny,cool,1,1
+rainy,mild,1,1
+sunny,mild,1,1
+cloudy,mild,0,1
+cloudy,hot,1,1
+rainy,mild,0,0
